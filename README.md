@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0303-range-sum-query-immutable](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0704-binary-search) |
 ## Design
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
