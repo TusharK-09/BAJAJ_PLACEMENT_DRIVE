@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0560-subarray-sum-equals-k) |
 ## Design
 |  |
 | ------- |
@@ -25,4 +27,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
