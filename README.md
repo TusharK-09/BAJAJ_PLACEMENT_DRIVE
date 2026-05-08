@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0704-binary-search) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -98,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0543-diameter-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
