@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0560-subarray-sum-equals-k) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/1791-find-center-of-star-graph) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
