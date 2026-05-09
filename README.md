@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0347-top-k-frequent-elements](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -31,4 +32,32 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0700-search-in-a-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
