@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0020-valid-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/TusharK-09/BAJAJ_PLACEMENT_DRIVE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
